@@ -1,5 +1,5 @@
 .spacePadding {
-	padding: 5px;
+	padding-top: 5.5%;
 }
 
 .thumbnail-resize {
@@ -9,4 +9,13 @@
 .text-zero-margin {
 	margin: 0px;
 	padding: 0px;
+}
+
+.navbar {
+	background-color: #639bff;
+}
+
+.jumbotron {
+	background: #9badb7;
+	color: white;
 }
