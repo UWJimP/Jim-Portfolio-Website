@@ -30,11 +30,19 @@
 	.spacePadding {
 		padding-top: 25%;
 	}
+	.img_icon {
+		width: 75px;
+		height: 75px;
+	}
 }
 
 @media (min-width: 600px) {
 	.spacePadding {
 		padding-top: 23%;
+	}
+	.img_icon {
+		width: 75px;
+		height: 75px;
 	}
 }
 
@@ -42,11 +50,19 @@
 	.spacePadding {
 		padding-top: 21%;
 	}
+	.img_icon {
+		width: 75px;
+		height: 75px;
+	}
 }
 
 @media (min-width: 695px) {
 	.spacePadding {
 		padding-top: 19%;
+	}
+	.img_icon {
+		width: 75px;
+		height: 75px;
 	}
 }
 
