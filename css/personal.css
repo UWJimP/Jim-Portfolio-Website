@@ -6,6 +6,10 @@
 	margin-bottom: 5px;
 }
 
+.row_max {
+	height: 100%;
+}
+
 .text-zero-margin {
 	margin: 0px;
 	padding: 0px;
