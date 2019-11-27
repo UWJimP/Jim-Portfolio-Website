@@ -2,6 +2,10 @@
 	padding-top: 27%;
 }
 
+body {
+	background: #c3b091;
+}
+
 .thumbnail-resize {
 	margin-bottom: 5px;
 }
@@ -101,4 +105,12 @@
 	.spacePadding {
 		padding-top: 7%;
 	}
+}
+
+#main_navbar .nav-link:hover {
+	color: white;
+}
+
+#main_navbar .dropdown-item:hover {
+	color: white;
 }
