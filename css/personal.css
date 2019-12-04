@@ -4,6 +4,7 @@
 
 body {
 	background: #c3b091;
+	/* background: rgb(198,189,138); */
 }
 
 .thumbnail-resize {
@@ -113,4 +114,8 @@ body {
 
 #main_navbar .dropdown-item:hover {
 	color: white;
+}
+
+.card {
+	border-color: #808080;
 }
